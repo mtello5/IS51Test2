@@ -10,3 +10,19 @@ Average grade = sum of grades / # of total grades
 Percentage of grades above average = grades > average / # of total grades 
 
 """
+"""
+Infile will open "Final.txt" and make list of strings and defined 'grades' as the list
+
+'Grades' line of strings will be made into list of intergers 
+
+Average = sum(grades) / len(grades)
+
+Using loop num = 0
+Above average % = above_average > average
+num += 1 
+
+print(grades)
+print(average)
+print(100 * num / len(grades))
+
+"""
